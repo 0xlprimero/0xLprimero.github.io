@@ -10,7 +10,7 @@
   <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
     <header class="tc mt4">
       <a href="{{ site.url }}">
-        <img src="{{ site.url }}/images/scribble.png" alt="Home" width="53" height="59">
+        <img src="{{ site.url }}/images/head.png" alt="Home" width="60" height="60">
       </a>
       <p>{{ site.title }}</p>
     </header>
@@ -42,14 +42,41 @@
         {% endif %}
         <div class="markdown-body">
           {{ content }}
+          {% if is_post %}
+          {% if page.comments %}
+    <div class="block">
+      <div id="disqus_thread"></div>
+      <script>
+        /**
+         *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+         */
+        /*
+        var disqus_config = function () {
+            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function() {  // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            
+            s.src = 'https://blog-7snynlmin2.disqus.com/embed.js';
+            
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    </div>
+  </div><!-- /container -->
+
+    {% endif %} 
+    {% endif %}
         </div>
-        {% if is_post %}{% include signoff.html %}{% endif %}
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
-      Built with Jekyll using <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a>.
-      <img src="{{ site.url }}/images/scribble2.png" alt="scribble" class="mt4 db center" />
+      Theme by <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">muan</a>.
     </footer>
   </body>
 </html>
