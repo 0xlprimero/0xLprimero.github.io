@@ -144,68 +144,6 @@ title: Miscellaneous
       <a href="https://www.amazon.com/Five-Point-Someone-What-Not/dp/8129135493/ref=sr_1_1?ie=UTF8&amp;qid=1499618252&amp;sr=8-1&amp;keywords=Five+Point+Someone">Five Point Someone</a>, by Chetan Bhagat <span class="rating"> ★☆☆☆☆</span>
     </li>
   </ul>
-  <h3>My Travel Map</h3>
-  <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
-<script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
-<script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
-<div id="mapdiv" style="width: 1000px; height: 450px;"></div>
-<script type="text/javascript">
-var map = AmCharts.makeChart("mapdiv",{
-type: "map",
-theme: "dark",
-projection: "mercator",
-panEventsEnabled : true,
-backgroundColor : "#535364",
-backgroundAlpha : 1,
-zoomControl: {
-zoomControlEnabled : false
-},
-dataProvider : {
-map : "worldHigh",
-getAreasFromMap : true,
-areas :
-[
-	{
-		"id": "FR",
-		"showAsSelected": true
-	},
-	{
-		"id": "GB",
-		"showAsSelected": true
-	},
-	{
-		"id": "CA",
-		"showAsSelected": true
-	},
-	{
-		"id": "US",
-		"showAsSelected": true
-	},
-	{
-		"id": "IN",
-		"showAsSelected": true
-	},
-	{
-		"id": "MY",
-		"showAsSelected": true
-	},
-	{
-		"id": "TH",
-		"showAsSelected": true
-	}
-]
-},
-areasSettings : {
-autoZoom : true,
-color : "#B4B4B7",
-colorSolid : "#84ADE9",
-selectedColor : "#84ADE9",
-outlineColor : "#666666",
-rollOverColor : "#9EC2F7",
-rollOverOutlineColor : "#000000"
-}
-});
-</script>
 </section>
 
 
