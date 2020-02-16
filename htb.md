@@ -1,6 +1,6 @@
 #### Vulnerability Resources for HackTheBox Machines
 
-My motive here is just to nudge the newbies in the right direction.
+My motive here is just to nudge the newbies in the right direction and not reveal the solution.
 
 OpenAdmin:
 1. https://www.exploit-db.com/exploits/47691
