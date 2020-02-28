@@ -3,7 +3,7 @@ title: About
 ---
 
 <section>
-  <h3>My Podcasts List</h3>
+  <h3>Find me here:</h3>
   <ul>
     <li>
       <a href="https://twitter.com/saruftw" target="_blank">Twitter</a>
