@@ -17,6 +17,9 @@ title: Miscellaneous
     <li>
       <a href="https://darknetdiaries.com/">Darknet Diaries</a>, by Jack Rhysider
     </li>
+    <li>
+      <a href="https://www.youtube.com/watch?v=5f-JlzBuUUU&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4">Artificial Intelligence Podcast</a>, by Lex Fridman
+    </li>
   </ul>
   <h3>My Reading List</h3>
   <ul>
