@@ -3,7 +3,7 @@ title: About
 ---
 
 <h2>Affiliations</h2>
-<table border="0" cellpadding="3" cellspacing="3">
+<table border="0" cellpadding="1" cellspacing="3">
 <tr>
   <td style="text-align:center">
     <image src="/images/logos/nyu_torch.png" height=15px>
@@ -117,30 +117,50 @@ title: About
     <image src="https://cdn.xenetwork.org/wp-content/uploads/2018/10/CMU-logo.jpg" height=15px>
   </td>
   <td>
-    <b>2007-2008</b>
+    <b>2019-2021</b>
   </td>
   <td>
-    Cryptographer
+    MS
   </td>
   <td>
-    <a href="https://en.wikipedia.org/wiki/Cryptography_Research">Cryptography Research</a>
+    <a href="https://cmu.edu">Carnegie Mellon University</a>
+  </td>
+  <td>
+    <a href="https://ini.cmu.edu">Information Security</a>
+  </td>
+</tr>
+  <tr>
+  <td style="text-align:center">
+    <image src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=15px>
+  </td>
+  <td>
+    <b>2013-2017</b>
+  </td>
+  <td>
+    HackerRank
+  </td>
+  <td>
+    <a href="https://hackerrank.com">Software Engineer II</a>
+  </td>
+  <td>
+    <a href="">Technical Content Team</a>
   </td>
 </tr>
 <tr>
   <td style="text-align:center">
-    <image src="/images/logos/stanford.png" height=15px>
+    <image src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Savitribai_Phule_Pune_University_Logo.png/220px-Savitribai_Phule_Pune_University_Logo.png" height=15px>
   </td>
   <td>
-    <b>2002-2006</b>
+    <b>2013-2017</b>
   </td>
   <td>
-    BS, MS
+    BEng
   </td>
   <td>
-    <a href="https://www.stanford.edu">Stanford</a>
+    <a href="http://www.unipune.ac.in/">University of Pune</a>
   </td>
   <td>
-    <a href="https://cs.stanford.edu">Computer Science</a>
+    <a href="">Computer Engineering</a>
   </td>
 </tr>
 
