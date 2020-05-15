@@ -2,16 +2,15 @@
 title: About
 ---
 
-<h2>Affiliations</h2>
+<h2>Past Affiliations</h2>
 <table border="0" cellpadding="1" cellspacing="3">
-
 
 <tr>
   <td style="text-align:center">
     <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Autodesk_Logo_A_only.svg/1200px-Autodesk_Logo_A_only.svg.png" height=20px>
   </td>
   <td>
-    <b>2019-2019</b>
+    <b>2020-2020</b>
   </td>
   <td>
     Summer Intern
@@ -39,13 +38,16 @@ title: About
   <td>
     <a href="https://ini.cmu.edu">Information Security</a>
   </td>
+  <td>
+    (<a href="https://www.heinz.cmu.edu/~acquisti/">Alessandro Acquisti</a>, <a href="https://ti.arc.nasa.gov/profile/pcorina/">Corina Pasareanu</a>)
+  </td>
 </tr>
   <tr>
   <td style="text-align:center">
     <image src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=20px>
   </td>
   <td>
-    <b>2013-2019</b>
+    <b>2017-2019</b>
   </td>
   <td>
     Engineer
