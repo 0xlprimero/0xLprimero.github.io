@@ -8,7 +8,7 @@ title: About
 
 <tr>
   <td style="text-align:center">
-    <image src="https://gds-storage-prd.s3.amazonaws.com/unified-gallery/190626/7111/223eb87f/thumbnails/autodesk-logo-3500-3500.jpg" height=20px>
+    <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Autodesk_Logo_A_only.svg/1200px-Autodesk_Logo_A_only.svg.png" height=20px>
   </td>
   <td>
     <b>2019-2019</b>
