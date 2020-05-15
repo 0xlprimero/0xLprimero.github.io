@@ -4,117 +4,28 @@ title: About
 
 <h2>Affiliations</h2>
 <table border="0" cellpadding="1" cellspacing="3">
+
+
 <tr>
   <td style="text-align:center">
-    <image src="/images/logos/nyu_torch.png" height=15px>
+    <image src="https://gds-storage-prd.s3.amazonaws.com/unified-gallery/190626/7111/223eb87f/thumbnails/autodesk-logo-3500-3500.jpg" height=20px>
   </td>
   <td>
-    <b>2017-</b>
+    <b>2019-2019</b>
   </td>
   <td>
-    Assistant Professor
+    Summer Intern
   </td>
   <td>
-    <a href="https://www.nyu.edu/">NYU</a>
+    <a href="https://www.autodesk.com/">Autodesk</a>
   </td>
   <td>
-    <a href="https://cs.nyu.edu/">Courant Institute</a>
+    <a href="">Identity and Data Security Team</a>
   </td>
 </tr>
 <tr>
   <td style="text-align:center">
-    <image src="/images/logos/eff.png" height=15px>
-  </td>
-  <td>
-    <b>2014-</b>
-  </td>
-  <td>
-    <a href="https://www.eff.org/about/staff/joseph-bonneau">Tech Fellow</a>
-  </td>
-  <td>
-    <a href="https://www.eff.org/">EFF</a>
-  </td>
-</tr>
-<tr>
-  <td style="text-align:center">
-    <image src="/images/logos/stanford.png" height=15px>
-  </td>
-  <td>
-    <b>2015-2016</b>
-  </td>
-  <td>
-    Postdoc
-  </td>
-  <td>
-    <a href="https://www.stanford.edu">Stanford</a>
-  </td>
-  <td>
-    <a href="https://crypto.stanford.edu/">Applied Crypto Group</a>
-  </td>
-  <td>
-    (<a href="https://crypto.stanford.edu/~dabo/">Dan Boneh</a>)
-  </td>
-</tr>
-<tr>
-  <td style="text-align:center">
-    <image src="/images/logos/princeton.png" height=15px>
-  </td>
-  <td>
-    <b>2014-2015</b>
-  </td>
-  <td>
-    Postdoc
-  </td>
-  <td>
-    <a href="https://www.princeton.edu">Princeton</a>
-  </td>
-  <td>
-    <a href="https://citp.princeton.edu/">CITP</a>
-  </td>
-  <td>
-    (<a href="http://randomwalker.info/">Arvind Narayanan</a>)
-  </td>
-</tr>
-<tr>
-  <td style="text-align:center">
-    <image src="/images/logos/google.png" height=15px>
-  </td>
-  <td>
-    <b>2012-2014</b>
-  </td>
-  <td>
-    Engineer
-  </td>
-  <td>
-    <a href="https://www.google.com/">Google</a>
-  </td>
-  <td>
-    <a href="https://research.google.com/pubs/SecurityPrivacyandAbusePrevention.html">Security Team</a>
-  </td>
-</tr>
-<tr>
-  <td style="text-align:center">
-    <image src="/images/logos/cambridge.png" height=15px>
-  </td>
-  <td>
-    <b>2008-2012</b>
-  </td>
-  <td>
-    PhD
-  </td>
-  <td>
-    <a href="https://www.cam.ac.uk/">Cambridge</a>
-  </td>
-  <td>
-    <a href="https://www.cl.cam.ac.uk/research/security/">Security Group</a>
-  </td>
-  <td>
-    (<a href="http://www.cl.cam.ac.uk/~rja14/">Ross Anderson</a>)
-  </td>
-</tr>
-<tr>
-  <td style="text-align:center">
-    <image src="https://cdn.xenetwork.org/wp-content/uploads/2018/10/CMU-logo.jpg" height=15px>
+    <image src="https://cdn.xenetwork.org/wp-content/uploads/2018/10/CMU-logo.jpg" height=20px>
   </td>
   <td>
     <b>2019-2021</b>
@@ -131,24 +42,41 @@ title: About
 </tr>
   <tr>
   <td style="text-align:center">
-    <image src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=15px>
+    <image src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=20px>
   </td>
   <td>
-    <b>2013-2017</b>
+    <b>2013-2019</b>
   </td>
   <td>
-    HackerRank
+    Engineer
   </td>
   <td>
-    <a href="https://hackerrank.com">Software Engineer II</a>
+    <a href="https://hackerrank.com">HackerRank</a>
   </td>
   <td>
     <a href="">Technical Content Team</a>
   </td>
 </tr>
+    <tr>
+  <td style="text-align:center">
+    <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" height=20px>
+  </td>
+  <td>
+    <b>2017-2017</b>
+  </td>
+  <td>
+    Summer Intern
+  </td>
+  <td>
+    <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>
+  </td>
+  <td>
+    <a href="https://chapel-lang.org/">Chapel Programming Language</a>
+  </td>
+</tr>
 <tr>
   <td style="text-align:center">
-    <image src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Savitribai_Phule_Pune_University_Logo.png/220px-Savitribai_Phule_Pune_University_Logo.png" height=15px>
+    <image src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Savitribai_Phule_Pune_University_Logo.png/220px-Savitribai_Phule_Pune_University_Logo.png" height=20px>
   </td>
   <td>
     <b>2013-2017</b>
