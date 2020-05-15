@@ -36,7 +36,7 @@ title: About
     <a href="https://cmu.edu">Carnegie Mellon University</a>
   </td>
   <td>
-    <a href="https://ini.cmu.edu">Information Security</a>
+    <a href="https://ini.cmu.edu">Information Networking Institute</a>
   </td>
   <td>
     (<a href="https://www.heinz.cmu.edu/~acquisti/">Alessandro Acquisti</a>, <a href="https://ti.arc.nasa.gov/profile/pcorina/">Corina Pasareanu</a>)
@@ -90,7 +90,7 @@ title: About
     <a href="http://www.unipune.ac.in/">University of Pune</a>
   </td>
   <td>
-    <a href="">Computer Engineering</a>
+    <a href="">Faculty of Computer Engineering</a>
   </td>
 </tr>
 
