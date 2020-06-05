@@ -90,7 +90,7 @@ title: About
     <a href="http://www.unipune.ac.in/">University of Pune</a>
   </td>
   <td>
-    <a href="">Faculty of Computer Engineering</a>
+    <a href="">Pune Institute of Computer Technology</a>
   </td>
 </tr>
 
