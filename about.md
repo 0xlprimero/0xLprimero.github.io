@@ -19,7 +19,7 @@ title: About
     <a href="https://www.autodesk.com/">Autodesk</a>
   </td>
   <td>
-    <a href="">Identity and Data Security Team</a>
+    <a href="">Infrastructure Security</a>
   </td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ title: About
     <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>
   </td>
   <td>
-    <a href="https://chapel-lang.org/">Chapel Programming Language</a>
+    <a href="https://chapel-lang.org/">Chapel Cryptography</a>
   </td>
 </tr>
 <tr>
