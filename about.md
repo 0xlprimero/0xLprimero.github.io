@@ -39,7 +39,7 @@ title: About
     <a href="https://ini.cmu.edu">Information Networking Institute</a>
   </td>
   <td>
-    (<a href="https://www.heinz.cmu.edu/~acquisti/">Alessandro Acquisti</a>, <a href="https://ti.arc.nasa.gov/profile/pcorina/">Corina Pasareanu</a>)
+    Advisors/Collaborators: <a href="https://sites.google.com/view/peizhang/">Dr. Pei Zhang</a>, <a href="https://www.heinz.cmu.edu/~acquisti/">Dr. Alessandro Acquisti</a>
   </td>
 </tr>
   <tr>
