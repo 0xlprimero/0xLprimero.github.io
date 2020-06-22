@@ -2,7 +2,7 @@
 title: About
 ---
 
-<h2>Past Affiliations</h2>
+<h2>Affiliations</h2>
 <table border="0" cellpadding="1" cellspacing="3">
 
 <tr>
