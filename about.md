@@ -7,7 +7,7 @@ title: About
 
 <tr>
   <td style="text-align:center">
-    <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Autodesk_Logo_A_only.svg/1200px-Autodesk_Logo_A_only.svg.png" height=20px>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Autodesk_Logo_A_only.svg/1200px-Autodesk_Logo_A_only.svg.png" height=20px>
   </td>
   <td>
     <b>2020-2020</b>
@@ -24,7 +24,7 @@ title: About
 </tr>
 <tr>
   <td style="text-align:center">
-    <image src="https://cdn.xenetwork.org/wp-content/uploads/2018/10/CMU-logo.jpg" height=20px>
+    <img src="https://cdn.xenetwork.org/wp-content/uploads/2018/10/CMU-logo.jpg" height=20px>
   </td>
   <td>
     <b>2019-2021</b>
@@ -44,7 +44,7 @@ title: About
 </tr>
   <tr>
   <td style="text-align:center">
-    <image src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=20px>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=20px>
   </td>
   <td>
     <b>2017-2019</b>
@@ -61,7 +61,7 @@ title: About
 </tr>
     <tr>
   <td style="text-align:center">
-    <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" height=20px>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png" height=20px>
   </td>
   <td>
     <b>2017-2017</b>
@@ -78,7 +78,7 @@ title: About
 </tr>
 <tr>
   <td style="text-align:center">
-    <image src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Savitribai_Phule_Pune_University_Logo.png/220px-Savitribai_Phule_Pune_University_Logo.png" height=20px>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Savitribai_Phule_Pune_University_Logo.png/220px-Savitribai_Phule_Pune_University_Logo.png" height=20px>
   </td>
   <td>
     <b>2013-2017</b>
