@@ -39,7 +39,7 @@ title: About
     <a href="https://ini.cmu.edu">Information Networking Institute</a>
   </td>
   <td>
-    Advisors/Collaborators: <a href="https://sites.google.com/view/peizhang/">Dr. Pei Zhang</a>, <a href="https://www.heinz.cmu.edu/~acquisti/">Dr. Alessandro Acquisti</a>
+    Advisors/Collaborators: <a href="https://sites.google.com/view/peizhang/">Dr. Pei Zhang</a>, <a href="https://www.heinz.cmu.edu/~acquisti/">Dr. Alessandro Acquisti</a>, <a href="https://users.ece.cmu.edu/~vsekar/">Dr. Vyas Sekar</a>
   </td>
 </tr>
   <tr>
