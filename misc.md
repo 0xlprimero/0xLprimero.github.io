@@ -48,7 +48,10 @@ title: Miscellaneous
       <a href="https://www.amazon.com/Breakout-Nations-Pursuit-Economic-Miracles/dp/0393345408/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1530035427&amp;sr=1-1&amp;keywords=breakout+nation&amp;dpID=41hYc4eB4cL&amp;preST=_SY291_BO1,204,203,200_QL40_&amp;dpSrc=srch">Breakout Nations: In Pursuit of the Next Economic Miracles</a>, by Ruchir Sharma
     </li>
     <li>
-      <a href="https://www.amazon.com/Actors-Life-Survival-Guide/dp/1944648224/ref=sr_1_3?keywords=actors+life&qid=1576381905&sr=8-3">The Actor's Life: A Survival Guide</a>, by Jenna Fischer<span class="rating">  ★★☆☆☆</span>
+      <a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525542876/ref=sr_1_4?crid=3P6QJ6GVRK2T9&dchild=1&keywords=digital+minimalism&qid=1593531134&sprefix=digital+mini%2Caps%2C144&sr=8-4">Digital Minimalism</a>, by Cal Newport<span class="rating">  ★☆☆☆☆</span>
+    </li>
+    <li>
+      <a href="https://www.amazon.com/Actors-Life-Survival-Guide/dp/1944648224/ref=sr_1_3?keywords=actors+life&qid=1576381905&sr=8-3">The Actor's Life: A Survival Guide</a>, by Jenna Fischer<span class="rating">  ★★★☆☆</span>
     </li>
     <li>
       <a href="https://www.amazon.com/Here-There-Everywhere-Best-Loved-Stories-ebook/dp/B07CVJ88VW/ref=sr_1_1?crid=3U6W3FEH9ASD1&amp;keywords=here+there+and+everywhere+sudha+murthy&amp;qid=1563603777&amp;s=gateway&amp;sprefix=here+there+and+everywhere+sudh%2Caps%2C361&amp;sr=8-1">Here, There and Everywhere</a>, by Sudha Murthy<span class="rating">  ★★★★☆</span>
