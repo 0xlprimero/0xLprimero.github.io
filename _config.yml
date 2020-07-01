@@ -14,9 +14,9 @@ links:
   - name:         About
     url:          /about
     external:     false
-  - name:         Miscellaneous
-    url:          /misc
-    external:     false
+#   - name:         Miscellaneous
+#     url:          /misc
+#     external:     false
   - name:         Twitter
     url:          https://twitter.com/saruftw
     external:     true
