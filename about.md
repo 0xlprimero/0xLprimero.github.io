@@ -19,7 +19,7 @@ title: About
       </ul>
     </li>
     <li>
-      <a href="https://hackerrank.com">HackerRank</a>, Engineer @ Technical Content Team (2017 - 2019)
+      <a href="https://hackerrank.com">HackerRank</a>, Engineer @ Content Engineering Team (2017 - 2019)
     </li>
     <li>
       <a href="https://summerofcode.withgoogle.com/">Google Summer of Code</a>, Summer Intern @ <a href="https://chapel-lang.org/">Chapel (Cryptography)</a> (2017)
