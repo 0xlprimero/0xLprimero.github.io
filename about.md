@@ -14,7 +14,7 @@ title: About
       <a href="https://cmu.edu">Carnegie Mellon University</a>, MS @ Information Networking Institute (2019 - 2021)
       <ul>
         <li>Advisors/Collaborators: <a href="https://sites.google.com/view/peizhang/">Dr. Pei Zhang</a>, <a href="https://www.heinz.cmu.edu/~acquisti/">Dr. Alessandro Acquisti</a>
-<!--           , <a href="https://users.ece.cmu.edu/~vsekar/">Dr. Vyas Sekar</a> -->
+           , <a href="https://users.ece.cmu.edu/~vsekar/">Dr. Vyas Sekar</a>
         </li>
       </ul>
     </li>
