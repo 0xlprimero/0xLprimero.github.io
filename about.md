@@ -3,7 +3,7 @@ title: About
 ---
 
 
-
+<!-- 
 <section>
   <h2>Affiliations</h2>
   <ul>
@@ -29,11 +29,12 @@ title: About
     </li>
   </ul>
   </section>
-
+-->
 
 
 <section>
   <h2>Miscellaneous</h2>
+  <!--
   <h3>My Podcasts List</h3>
   <ul>
     <li>
@@ -52,6 +53,7 @@ title: About
       <a href="https://www.youtube.com/watch?v=5f-JlzBuUUU&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4">Artificial Intelligence Podcast</a>, by Lex Fridman
     </li>
   </ul>
+-->
   <h3>My Reading List</h3>
   <ul>
     <li>
