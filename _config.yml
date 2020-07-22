@@ -20,6 +20,9 @@ links:
   - name:         Twitter
     url:          https://twitter.com/saruftw
     external:     true
+  - name:         Google Scholar
+    url:          https://scholar.google.com/citations?user=0RfLLJcAAAAJ&hl=en
+    external:     true
   - name:         E-Mail
     url:          mailto:smunshi@cmu.edu
     external:     true
