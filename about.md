@@ -58,7 +58,7 @@ title: About
   </ul>
 -->
   <details>
-    <summary><h3>My Reading List</h3></summary>
+    <summary><strong>My Reading List</strong></summary>
   <ul>
     <li>
       <a href="https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021">Principles: Life and Work</a>, by Ray Dalio
