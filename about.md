@@ -5,6 +5,9 @@ title: About
 <section>
   <h2>Work / Research</h2>
   <ul>
+    <li><strong>Semi-supervised and Explainable Anamaly Detection in High-dimensional Flight Data</strong>, Sarthak Munshi, Kartik Chaudhari, Xingying Ma, Vishesh Goyal, Milad Memarzadeh and Bryan Matthews. [<a href="">pdf</a>]</li>
+  </ul>
+  <ul>
     <li><strong>Chapel Comes of Age: Productive Parallelism at Scale</strong>, Brad Chamberlain, Elliot Ronaghan, Ben Albrecht, Lydia Duncan, Michael Ferguson, Ben Harshbarger, David Iten, David Keaton, Vassily Litvinov, Preston Sahabu, and Greg Titus. CUG 2018, Stockholm Sweden, May 22, 2018. [<a href="https://chapel-lang.org/publications/cug2018-chapel.pdf">pdf</a>] [<a href="https://github.com/chapel-lang/chapel/pull/7139">code</a>]</li>
   </ul>
 </section>
@@ -193,6 +196,6 @@ title: About
       <a href="https://www.amazon.com/Five-Point-Someone-What-Not/dp/8129135493/ref=sr_1_1?ie=UTF8&amp;qid=1499618252&amp;sr=8-1&amp;keywords=Five+Point+Someone">Five Point Someone</a>, by Chetan Bhagat <span class="rating"> ★☆☆☆☆</span>
     </li>
   </ul>
-</section>
-</details>
 
+</details>
+</section>
