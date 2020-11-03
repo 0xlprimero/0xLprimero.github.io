@@ -11,9 +11,9 @@ links:
   - name:         Posts
     url:          /
     external:     false
-#   - name:         About
-#     url:          /about
-#     external:     false
+  - name:         About
+    url:          /about
+    external:     false
 #   - name:         Miscellaneous
 #     url:          /misc
 #     external:     false
