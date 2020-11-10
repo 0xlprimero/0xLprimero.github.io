@@ -1,9 +1,23 @@
 ---
 title: About
 ---
+<section>
+  I'm a Masters student at the Carnegie Mellon University. I've previously been affiliated with NASA, Hackerrank, Google Summer of Code. I'm interested in problems at the intersection of secure systems and artificial intelligence.
+ </section>
 
 <section>
+  <h2>Software</h2>
+  TBA
+ </section>
+ 
+<section>
   <h2>Research</h2>
+<!--     <ul>
+    <li><strong>Semi-supervised and Explainable Anomaly Detection in High-dimensional Flight Data</strong>, Sarthak Munshi, Kartik Chaudhari, Xingying Ma, Vishesh Goyal, Milad Memarzadeh and Bryan Matthews. (Work in Progress) [<a href="">pdf</a>]</li>
+  </ul>
+    <ul>
+    <li><strong>Semi-supervised and Explainable Anomaly Detection in High-dimensional Flight Data</strong>, Sarthak Munshi, Kartik Chaudhari, Xingying Ma, Vishesh Goyal, Milad Memarzadeh and Bryan Matthews. (Work in Progress) [<a href="">pdf</a>]</li>
+  </ul> -->
   <ul>
     <li><strong>Semi-supervised and Explainable Anomaly Detection in High-dimensional Flight Data</strong>, Sarthak Munshi, Kartik Chaudhari, Xingying Ma, Vishesh Goyal, Milad Memarzadeh and Bryan Matthews. (Work in Progress) [<a href="">pdf</a>]</li>
   </ul>
