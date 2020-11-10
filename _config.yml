@@ -9,10 +9,10 @@ share:            false # Turn on twitter and facebook share buttons
 
 links:
   - name:         Posts
-    url:          /
+    url:          /posts
     external:     false
   - name:         About
-    url:          /about
+    url:          /
     external:     false
 #   - name:         Miscellaneous
 #     url:          /misc
@@ -24,7 +24,7 @@ links:
 #     url:          https://scholar.google.com/citations?user=0RfLLJcAAAAJ&hl=en
 #     external:     true
   - name:         E-Mail
-    url:          mailto:smunshi@cmu.edu
+    url:          mailto:sarthak@hey.com
     external:     true
 # ------------ CONFIGURABLE END ------------
 
