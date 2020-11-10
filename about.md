@@ -3,9 +3,9 @@ title: About
 ---
 
 <section>
-  <h2>Work / Research</h2>
+  <h2>Research</h2>
   <ul>
-    <li><strong>Semi-supervised and Explainable Anomaly Detection in High-dimensional Flight Data</strong>, Sarthak Munshi, Kartik Chaudhari, Xingying Ma, Vishesh Goyal, Milad Memarzadeh and Bryan Matthews. [<a href="">pdf</a>]</li>
+    <li><strong>Semi-supervised and Explainable Anomaly Detection in High-dimensional Flight Data</strong>, Sarthak Munshi, Kartik Chaudhari, Xingying Ma, Vishesh Goyal, Milad Memarzadeh and Bryan Matthews. (Work in Progress) [<a href="">pdf</a>]</li>
   </ul>
   <ul>
     <li><strong>Chapel Comes of Age: Productive Parallelism at Scale</strong>, Brad Chamberlain, Elliot Ronaghan, Ben Albrecht, Lydia Duncan, Michael Ferguson, Ben Harshbarger, David Iten, David Keaton, Vassily Litvinov, Preston Sahabu, and Greg Titus. CUG 2018, Stockholm Sweden, May 22, 2018. [<a href="https://chapel-lang.org/publications/cug2018-chapel.pdf">pdf</a>] [<a href="https://github.com/chapel-lang/chapel/pull/7139">code</a>]</li>
