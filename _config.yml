@@ -20,6 +20,9 @@ links:
   - name:         Twitter
     url:          https://twitter.com/0xLprimero
     external:     true
+  - name:         Goodreads
+    url:          https://www.goodreads.com/0xlprimero
+    external:     true
 #   - name:         Google Scholar
 #     url:          https://scholar.google.com/citations?user=0RfLLJcAAAAJ&hl=en
 #     external:     true
