@@ -79,7 +79,7 @@ title: About
       <a href="https://www.youtube.com/watch?v=5f-JlzBuUUU&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4">Artificial Intelligence Podcast</a>, by Lex Fridman
     </li>
   </ul>
--->
+
   <details>
     <summary><strong>My Reading List</strong></summary>
   <ul>
@@ -212,4 +212,5 @@ title: About
   </ul>
 
 </details>
+-->
 </section>
