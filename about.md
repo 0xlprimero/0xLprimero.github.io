@@ -57,7 +57,7 @@ title: About
   </section>
 -->
 
-
+<!-- 
 <section>
   <h2>Miscellaneous</h2>
   <!--
@@ -212,5 +212,5 @@ title: About
   </ul>
 
 </details>
--->
-</section>
+
+</section>-->
