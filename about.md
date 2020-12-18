@@ -2,7 +2,8 @@
 title: About
 ---
 <section>
-  I'm a Masters student at the Carnegie Mellon University. I've previously been affiliated with NASA, Hackerrank, Google Summer of Code. I'm interested in problems at the intersection of secure systems and artificial intelligence.
+<!--   Current: NetSec @ Autodesk -->
+  Prior Affiliations: Carnegie Mellon University, NASA, Hackerrank, Google Summer of Code.
  </section>
 
 <section>
