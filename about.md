@@ -3,7 +3,7 @@ title: About
 ---
 <section>
 <!--   Current: NetSec @ Autodesk -->
-  Prior Affiliations: Carnegie Mellon University, NASA, Hackerrank, Google Summer of Code.
+<!--   Prior Affiliations: Carnegie Mellon University, NASA, Hackerrank, Google Summer of Code. -->
  </section>
 
 <section>
