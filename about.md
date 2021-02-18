@@ -27,6 +27,13 @@ title: About
   </ul>
 </section>
 
+<section>
+  <h2>Teaching</h2>
+  <ul>
+    <li><strong>Applied Adversarial Machine Learning</strong> @ Carnegie Mellon University (TA Spring 2021)</li>
+  </ul>
+</section>
+
 <!-- 
 <section>
   <h2>Affiliations</h2>
