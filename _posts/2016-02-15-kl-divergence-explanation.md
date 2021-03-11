@@ -1,6 +1,6 @@
 ---
 title: What is the Kullback-Leibler divergence?
-date: 2018-02-15
+date: 2016-02-15
 ---
 
 Before we understand what the _Kullback-Leibler (or KL) divergence_ is, we need to understand what the term _entropy_ means or represents in the field of information theory and statistics.
